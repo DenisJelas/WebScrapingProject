@@ -1,0 +1,3119 @@
+{
+  "vrijeme_Prikupljanja": "2023-10-31T00:00:00+01:00",
+  "ukupan_Broj": 389,
+  "odabrana_Kategorija": "Akademska",
+  "Lista_Clanica": [
+    {
+      "Ime": "Agronomski fakultet",
+      "Link": "",
+      "Adresa": "Jazbina 142",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Agronomski fakultet",
+      "Link": "http://www.agr.hr/",
+      "Adresa": "Svetošimunska cesta 25",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Agronomski fakultet - Pokušalište Šašinovec",
+      "Link": "",
+      "Adresa": "Ulica Stjepana Granđe 36",
+      "Grad": "Šašinovec",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija dramske umjetnosti",
+      "Link": "http://www.adu.hr",
+      "Adresa": "Trg Republike Hrvatske 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Jabukovac 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Ulica Ivana Gorana Kovačića 19",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Zagorska ulica 16",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Lastovska ulica 23",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Ilica 83",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "http://www.alu.hr",
+      "Adresa": "Ilica 85",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Nova Ves 18",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Akademija likovnih umjetnosti",
+      "Link": "",
+      "Adresa": "Ulica Rudolfa Kolaka 12",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Arhitektonski fakultet",
+      "Link": "http://www.arhitekt.hr",
+      "Adresa": "Kačićeva ulica 26",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Arhitektonski fakultet - Studij dizajna",
+      "Link": "http://www.studijdizajna.com/",
+      "Adresa": "Frankopanska ulica 12",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Centar za rehabilitaciju Edukacijsko-rehabilitacijskog fakulteta",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83F",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Edukacijsko-rehabilitacijski fakultet",
+      "Link": "http://www.erf.hr",
+      "Adresa": "Borongajska cesta 83F",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Ekonomski fakultet Zagreb",
+      "Link": "http://www.efzg.hr",
+      "Adresa": "Trg Johna Fitzgeralda Kennedyja 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Ekonomski fakultet Zagreb - Poslovna ekonomija",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83D/3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Europska poslovna škola Zagreb",
+      "Link": "http://www.vszrinski.hr/",
+      "Adresa": "Selska cesta 119",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Evanđeoski teološki fakultet - Visoko evanđeosko teološko učilište",
+      "Link": "",
+      "Adresa": "Ulica Dragojla Kušlana 21",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike i računarstva",
+      "Link": "http://www.fer.hr",
+      "Adresa": "Unska ulica 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike i računarstva - Banjavčićeva",
+      "Link": "",
+      "Adresa": "Ulica Ivana Banjavčića 1A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike i računarstva - Laboratorij za robotiku i inteligentne sustave upravljanja LARICS",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83F",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike i računarstva - SŠD Martinovka",
+      "Link": "",
+      "Adresa": "Miramarska cesta 20",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet filozofije i religijskih znanosti",
+      "Link": "//www.ffrz.hr",
+      "Adresa": "Jordanovac 110",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet hrvatskih studija",
+      "Link": "http://www.hrstud.unizg.hr/",
+      "Adresa": "Borongajska cesta 83D",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet kemijskog inženjerstva i tehnologije",
+      "Link": "",
+      "Adresa": "Savska cesta 41",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet kemijskog inženjerstva i tehnologije",
+      "Link": "",
+      "Adresa": "Savska cesta 16/5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet kemijskog inženjerstva i tehnologije",
+      "Link": "",
+      "Adresa": "Savska cesta 16/9",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet kemijskog inženjerstva i tehnologije",
+      "Link": "",
+      "Adresa": "Savska cesta 16",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet kemijskog inženjerstva i tehnologije",
+      "Link": "http://www.fkit.unizg.hr",
+      "Adresa": "Trg Marka Marulića 19",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet kemijskog inženjerstva i tehnologije",
+      "Link": "",
+      "Adresa": "Trg Marka Marulića 20",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet političkih znanosti",
+      "Link": "http://www.fpzg.unizg.hr",
+      "Adresa": "Ulica Ivana Lepušića 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet političkih znanosti",
+      "Link": "",
+      "Adresa": "Ulica Škendera Fabkovića 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet političkih znanosti",
+      "Link": "",
+      "Adresa": "Trg Drage Iblera 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet prometnih znanosti",
+      "Link": "",
+      "Adresa": "Ulica Dragojla Kušlana 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet prometnih znanosti",
+      "Link": "http://www.fpz.hr",
+      "Adresa": "Ulica Lavoslava Vukelića 4",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet prometnih znanosti",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet prometnih znanosti - Hrvatsko zrakoplovno nastavno središte",
+      "Link": "",
+      "Adresa": "Ježdovečka ulica 17",
+      "Grad": "Ježdovec",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "",
+      "Adresa": "Koledovčina 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "",
+      "Adresa": "Radnička cesta 177",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "",
+      "Adresa": "Radnička cesta 206",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "",
+      "Adresa": "Ulica grada Gospića 1A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "",
+      "Adresa": "Zrmanjski ogranak 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "",
+      "Adresa": "Ulica Ivana Lučića 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet strojarstva i brodogradnje",
+      "Link": "http://www.fsb.hr",
+      "Adresa": "Ulica Ivana Lučića 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Farmaceutsko - biokemijski fakultet",
+      "Link": "",
+      "Adresa": "Ulica kneza Domagoja 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Farmaceutsko - biokemijski fakultet",
+      "Link": "",
+      "Adresa": "Slavonska avenija 22D",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Farmaceutsko - biokemijski fakultet",
+      "Link": "//www.pharma.unizg.hr",
+      "Adresa": "Ulica Ante Kovačića 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Farmaceutsko - biokemijski fakultet",
+      "Link": "",
+      "Adresa": "Trg Marka Marulića 20",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Farmaceutsko - biokemijski fakultet",
+      "Link": "",
+      "Adresa": "Ulica Josipa Schrotta 39",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Filozofski fakultet u Zagrebu",
+      "Link": "http://www.ffzg.unizg.hr",
+      "Adresa": "Ulica Ivana Lučića 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Geodetski fakultet",
+      "Link": "",
+      "Adresa": "Savska cesta 144A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Geodetski fakultet",
+      "Link": "",
+      "Adresa": "Ulica grada Gospića 1A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Geodetski fakultet",
+      "Link": "http://www.geof.hr/",
+      "Adresa": "Kačićeva ulica 26",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Grafički fakultet",
+      "Link": "http://www.grf.unizg.hr",
+      "Adresa": "Getaldićeva ulica 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "",
+      "Adresa": "Ulica Silvija Strahimira Kranjčevića 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "",
+      "Adresa": "Ulica grada Gospića 1A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "",
+      "Adresa": "Savska cesta 16/2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "http://www.grad.unizg.hr/",
+      "Adresa": "Kačićeva ulica 26",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "",
+      "Adresa": "Sveti Duh 129",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatsko katoličko sveučilište",
+      "Link": "//www.unicath.hr",
+      "Adresa": "Ilica 244B",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatsko vojno učilište dr. Franjo Tuđman Ministarstva obrane RH",
+      "Link": "",
+      "Adresa": "Ilica 256B",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet",
+      "Link": "http://www.kbf.hr/",
+      "Adresa": "Vlaška ulica 38",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet",
+      "Link": "",
+      "Adresa": "Voćarska cesta 106",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet (zgrada 2)",
+      "Link": "",
+      "Adresa": "Voćarska cesta 106",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Kineziološki fakultet",
+      "Link": "http://www.kif.hr",
+      "Adresa": "Horvaćanski zavoj 15",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Libertas međunarodno sveučilište",
+      "Link": "http://www.libertas.hr/",
+      "Adresa": "Trg Johna Fitzgeralda Kennedyja 6B",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Medicinski fakultet u Zagrebu",
+      "Link": "http://www.mef.hr/",
+      "Adresa": "Šalata 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Muzička akademija",
+      "Link": "http://www.muza.unizg.hr/",
+      "Adresa": "Trg Republike Hrvatske 12",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Poslovno veleučilište Zagreb",
+      "Link": "http://www.vpsz.hr/",
+      "Adresa": "Ulica grada Vukovara 68",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "",
+      "Adresa": "Ulica sv. Ćirila i Metoda 4",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "",
+      "Adresa": "Trg Republike Hrvatske 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "",
+      "Adresa": "Tkalčićeva ulica 48",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "",
+      "Adresa": "Gundulićeva ulica 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pravni fakultet, Socijalni studij",
+      "Link": "",
+      "Adresa": "Ulica Vladimira Nazora 51",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prehrambeno - biotehnološki fakultet",
+      "Link": "",
+      "Adresa": "Ulica Vatroslava Jagića 31",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prehrambeno - biotehnološki fakultet",
+      "Link": "",
+      "Adresa": "Kačićeva ulica 23",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prehrambeno - biotehnološki fakultet",
+      "Link": "http://www.pbf.hr",
+      "Adresa": "Pierottijeva ulica 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prehrambeno - biotehnološki fakultet, Laboratorij za biologiju i genetiku mikroorganizama",
+      "Link": "",
+      "Adresa": "Ulica Isidora Kršnjavoga 25",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet",
+      "Link": "//www.pmf.hr",
+      "Adresa": "Sljemenska cesta 8",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83H",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet",
+      "Link": "//www.pmf.unizg.hr",
+      "Adresa": "Horvatovac 102A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Biološki odsjek",
+      "Link": "",
+      "Adresa": "Ravnice 48",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Biološki odsjek",
+      "Link": "http://www.biol.pmf.hr/",
+      "Adresa": "Trg Marka Marulića 20",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Biološki odsjek",
+      "Link": "http://www.biol.pmf.hr/",
+      "Adresa": "Trg Marka Marulića 9A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Biološki odsjek",
+      "Link": "http://www.pmf.unizg.hr/biol",
+      "Adresa": "Rooseveltov trg 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Fizički odsjek",
+      "Link": "http://www.pmf.hr/phy/",
+      "Adresa": "Bijenička cesta 32",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Geofizički odsjek",
+      "Link": "http://www.gfz.hr/",
+      "Adresa": "Horvatovac 95",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Geografski odsjek",
+      "Link": "http://www.geog.pmf.hr/",
+      "Adresa": "Trg Marka Marulića 19",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Kemijski odsjek",
+      "Link": "http://www.chem.pmf.hr/",
+      "Adresa": "Horvatovac 102A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Matematički odsjek",
+      "Link": "http://www.math.hr/",
+      "Adresa": "Bijenička cesta 30",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Rektorski zbor",
+      "Link": "",
+      "Adresa": "Trg Republike Hrvatske 14",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Rochester Institute of Technology - Stručni studij informacijske tehnologije",
+      "Link": "",
+      "Adresa": "Ulica Damira Tomljanovića - Gavrana 15",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Rudarsko-geološko-naftni fakultet",
+      "Link": "http://www.rgn.hr",
+      "Adresa": "Pierottijeva ulica 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Stomatološki fakultet",
+      "Link": "",
+      "Adresa": "Petrinjska ulica 34",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Stomatološki fakultet",
+      "Link": "",
+      "Adresa": "Gundulićeva ulica 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Stomatološki fakultet",
+      "Link": "",
+      "Adresa": "Šalata 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Stomatološki fakultet",
+      "Link": "http://www.sfzg.unizg.hr",
+      "Adresa": "Gundulićeva ulica 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar Karlovac - podružnica Zagreb",
+      "Link": "",
+      "Adresa": "Preradovićeva ulica 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83F",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu",
+      "Link": "",
+      "Adresa": "Poljanička ulica 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu",
+      "Link": "",
+      "Adresa": "Ulica Hrvatske bratske zajednice 4",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu",
+      "Link": "",
+      "Adresa": "Ulica Ivana Lučića 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu",
+      "Link": "http://www.sczg.hr/",
+      "Adresa": "Savska cesta 25",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu - Restoran Agronomskog fakulteta",
+      "Link": "",
+      "Adresa": "Svetošimunska cesta 25",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu - Restoran Ekonomskog fakulteta",
+      "Link": "",
+      "Adresa": "Trg Johna Fitzgeralda Kennedyja 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski centar u Zagrebu - Restoran Medicinskog fakulteta",
+      "Link": "",
+      "Adresa": "Šalata 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski dom \"Ante Starčević\"",
+      "Link": "",
+      "Adresa": "Zagrebačka avenija 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski dom \"Lašćina\"",
+      "Link": "",
+      "Adresa": "Lašćinska cesta 32",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski dom \"Stjepan Radić\"",
+      "Link": "",
+      "Adresa": "Jarunska ulica 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski dom Cvjetno naselje",
+      "Link": "",
+      "Adresa": "Odranska ulica 8",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Studentski zbor Sveučilišta u Zagrebu",
+      "Link": "//www.szzg.hr",
+      "Adresa": "Savska cesta 25",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilišni računski centar",
+      "Link": "",
+      "Adresa": "Borongajska cesta 100",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilišni računski centar",
+      "Link": "http://www.srce.unizg.hr",
+      "Adresa": "Ulica Josipa Marohnića 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište obrane i sigurnosti “Dr. Franjo Tuđman”",
+      "Link": "",
+      "Adresa": "Ilica 256B",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu - Arhitektonski fakultet",
+      "Link": "",
+      "Adresa": "Ulica Aleksandra Hondla 2/1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu - Arhitektonski fakultet",
+      "Link": "",
+      "Adresa": "Ulica Aleksandra Hondla 2/11",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu - Rektorat",
+      "Link": "",
+      "Adresa": "Ulica Ivana Lučića 1A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu - Rektorat",
+      "Link": "",
+      "Adresa": "Ulica kralja Zvonimira 8",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu - Rektorat",
+      "Link": "http://www.unizg.hr",
+      "Adresa": "Trg Republike Hrvatske 14",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu Fakultet šumarstva i drvne tehnologije",
+      "Link": "https://www.sumfak.unizg.hr/",
+      "Adresa": "Svetošimunska cesta 23",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tehničko veleučilište u Zagrebu",
+      "Link": "//www.tvz.hr",
+      "Adresa": "Ulica Ivana Lučića 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tehničko veleučilište u Zagrebu",
+      "Link": "",
+      "Adresa": "Avenija Većeslava Holjevca 15",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tehničko veleučilište u Zagrebu",
+      "Link": "http://www.tvz.hr",
+      "Adresa": "Vrbik 8",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tehničko veleučilište u Zagrebu",
+      "Link": "",
+      "Adresa": "Ulica Ivana Broza 6A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tehničko veleučilište u Zagrebu",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83E",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tehničko veleučilište u Zagrebu - Elektrotehnički odjel",
+      "Link": "",
+      "Adresa": "Konavoska ulica 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tekstilno - tehnološki fakultet",
+      "Link": "http://www.ttf.unizg.hr",
+      "Adresa": "Pierottijeva ulica 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tekstilno - tehnološki fakultet",
+      "Link": "http://www.ztk.ttf.hr",
+      "Adresa": "Savska cesta 16/9",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Tekstilno - tehnološki fakultet",
+      "Link": "",
+      "Adresa": "Prilaz baruna Filipovića 28A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Teološki fakultet \"Matija Vlačić Ilirik\" s pravom javnosti",
+      "Link": "//www.tfmvi.hr",
+      "Adresa": "Ulica Ivana Lučića 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Učiteljski fakultet",
+      "Link": "",
+      "Adresa": "Savska cesta 41",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Učiteljski fakultet",
+      "Link": "//www.ufzg.hr",
+      "Adresa": "Savska cesta 77",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Veleučilište RRIF",
+      "Link": "//rvs.hr",
+      "Adresa": "Martićeva ulica 29",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Veleučilište s pravom javnosti Baltazar Zaprešić",
+      "Link": "",
+      "Adresa": "Lastovska ulica 23",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Veleučilište VERN",
+      "Link": "http://www.vern.hr/",
+      "Adresa": "Palmotićeva ulica 82",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Veterinarski fakultet",
+      "Link": "http://www.vef.hr",
+      "Adresa": "Ulica Vjekoslava Heinzela 55",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Visoka policijska škola",
+      "Link": "http://kondor.fkz.hr",
+      "Adresa": "Avenija Gojka Šuška 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Visoka škola međunarodnih odnosa i diplomacije Dag Hammarskjöld",
+      "Link": "http://www.diplomacija.hr/",
+      "Adresa": "Ulica Filipa Vukasovića 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Visoka škola za informacijske tehnologije",
+      "Link": "http://www.vsite.hr/",
+      "Adresa": "Ulica Vjekoslava Klaića 7",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Visoka škola za menadžment i dizajn Aspira",
+      "Link": "",
+      "Adresa": "Ulica Vjekoslava Heinzela 62A",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Visoko učilište Algebra - Visoka škola za primijenjeno računarstvo",
+      "Link": "http://www.racunarstvo.hr/",
+      "Adresa": "Maksimirska cesta 58",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Visoko učilište Algebra - Visoka škola za primijenjeno računarstvo",
+      "Link": "",
+      "Adresa": "Gradišćanska ulica 24",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Zagrebačka škola ekonomije i managementa",
+      "Link": "http://web.zsem.hr/",
+      "Adresa": "Ulica Filipa Vukasovića 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Zdravstveno veleučilište",
+      "Link": "",
+      "Adresa": "Ksaver 209",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Zdravstveno veleučilište",
+      "Link": "http://www.zvu.hr/",
+      "Adresa": "Mlinarska cesta 38",
+      "Grad": "Zagreb",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fakultet prometnih znanosti",
+      "Link": "",
+      "Adresa": "Donji Zemunik ulica I 1",
+      "Grad": "Zemunik Donji",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Prehrambeno - biotehnološki fakultet",
+      "Link": "",
+      "Adresa": "Ulica Petra Kasandrića 3",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Studentski dom u Zadru",
+      "Link": "",
+      "Adresa": "Ulica dr. Franje Tuđmana 24D",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica dr. Franje Tuđmana 24I",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica Šime Vitasovića 2",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "http://www.unizd.hr/",
+      "Adresa": "Ulica Mihovila Pavlinovića 1",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica Ante Kuzmanića 1",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Put Stanova 1",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Trg kneza Višeslava 9",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Obala kralja Petra Krešimira IV 2",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica Jurja Bijankinija 1",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Splitska ulica 1",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica Petra Kasandrića 6",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica bana Josipa Jelačića 26A",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zadru",
+      "Link": "",
+      "Adresa": "Ulica Ruđera Boškovića 2",
+      "Grad": "Zadar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Veleučilište s pravom javnosti Baltazar Zaprešić",
+      "Link": "",
+      "Adresa": "Šet. kneza Branimira 52",
+      "Grad": "Biograd na Moru",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Vojarna Zemunik Donji",
+      "Link": "",
+      "Adresa": "Donji Zemunik ulica I 1",
+      "Grad": "Zemunik Donji",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Akademija za umjetnost i kulturu u Osijeku",
+      "Link": "",
+      "Adresa": "Trg sv. Trojstva 3",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Akademija za umjetnost i kulturu u Osijeku (zgrada br. 18)",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8C",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Akademija za umjetnost i kulturu u Osijeku (zgrada br. 22)",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8D",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Akademija za umjetnost i kulturu u Osijeku (zgrada br. 25)",
+      "Link": "//www.uaos.hr",
+      "Adresa": "Ulica kralja Petra Svačića 1G",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Akademija za umjetnost i kulturu u Osijeku (zgrada br. 26)",
+      "Link": "",
+      "Adresa": "Ulica kralja Petra Svačića 1F",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Akademija za umjetnost i kulturu u Osijeku (zgrada br. 4)",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8B",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Ekonomski fakultet u Osijeku",
+      "Link": "http://www.efos.hr",
+      "Adresa": "Trg Ljudevita Gaja 7",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Evanđeoski teološki fakultet - Visoko evanđeosko teološko učilište",
+      "Link": "http://www.evtos.hr",
+      "Adresa": "Cvjetkova ulica 32",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet agrobiotehničkih znanosti Osijek",
+      "Link": "//www.fazos.unios.hr",
+      "Adresa": "Ulica Vladimira Preloga 1",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 10B",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek",
+      "Link": "http://www.etfos.hr",
+      "Adresa": "Ulica kneza Trpimira 2B",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet primijenjene matematike i informatike",
+      "Link": "//www.mathos.hr",
+      "Adresa": "Trg Ljudevita Gaja 6",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Crkvena ulica 21",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 10E",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Ul. bana Jelačića 10",
+      "Grad": "Našice",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet za odgojne i obrazovne znanosti (zgrada br. 15)",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 10",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet za odgojne i obrazovne znanosti - Studentski kampus",
+      "Link": "http://web.foozos.hr",
+      "Adresa": "Ulica cara Hadrijana 10",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Fakultet za odgojne i obrazovne znanosti - Studentski kampus",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 10",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Filozofski fakultet",
+      "Link": "http://www.ffos.unios.hr/",
+      "Adresa": "Ulica Lorenza Jägera 9",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Filozofski fakultet",
+      "Link": "",
+      "Adresa": "Školska 4",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "",
+      "Adresa": "Ulica Vladimira Preloga 3",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet - Bogoslovno sjemenište",
+      "Link": "",
+      "Adresa": "Strossmayerov trg 5",
+      "Grad": "Đakovo",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet u Đakovu",
+      "Link": "//www.djkbf.hr",
+      "Adresa": "P. Preradovića 17",
+      "Grad": "Đakovo",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Osijeku",
+      "Link": "http://www.mefos.hr",
+      "Adresa": "Ulica Josipa Huttlera 4",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Odjel za biologiju Sveučilišta Josipa Jurja Strossmayera u Osijeku - Studentski kampus",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8A",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Odjel za fiziku Sveučilišta Josipa Jurja Strossmayera u Osijeku",
+      "Link": "//www.fizika.unios.hr",
+      "Adresa": "Trg Ljudevita Gaja 6",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Odjel za kemiju Sveučilišta Josipa Jurja Strossmayera u Osijeku - Studentski kampus",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8B",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "http://zakon.pravos.hr",
+      "Adresa": "Ulica Stjepana Radića 13",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Pravni fakultet - Stručni upravni studij",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8A",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Prehrambeno-tehnološki fakultet Osijek",
+      "Link": "",
+      "Adresa": "Trg sv. Trojstva 3",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Prehrambeno-tehnološki fakultet Osijek",
+      "Link": "http://www.ptfos.hr",
+      "Adresa": "Franje Kuhača 18",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Studentski centar u Osijeku",
+      "Link": "",
+      "Adresa": "Ulica Ivana Gorana Kovačića 4",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Studentski centar u Osijeku",
+      "Link": "//www.stucos.hr",
+      "Adresa": "Istarska 5",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Studentski dom u Osijeku",
+      "Link": "",
+      "Adresa": "Ulica kralja Petra Svačića 1G",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Studentski zbor Sveučilišta J.J. Strossmayera u Osijeku",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Sveučilište J. J. Strossmayera u Osijeku - Rektorat",
+      "Link": "//www.unios.hr",
+      "Adresa": "Trg sv. Trojstva 3",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Sveučilište Josipa Jurja Strossmayera, Kineziološki fakultet Osijek",
+      "Link": "",
+      "Adresa": "Drinska 16A",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Ured za invalide Sveučilišta J.J. Strossmayera u Osijeku",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 8",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Ured za Kvalitetu Sveučilišta J.J. Strossmayera u Osijeku",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 10C",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Ured za znanost Sveučilišta J.J. Strossmayera u Osijeku",
+      "Link": "",
+      "Adresa": "Ulica cara Hadrijana 10C",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Veleučilište s pravom javnosti Baltazar Zaprešić",
+      "Link": "",
+      "Adresa": "Šetalište kardinala Franje Šepera 13",
+      "Grad": "Osijek",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Akademija primijenjenih umjetnosti Sveučilišta u Rijeci",
+      "Link": "http://apuri.hr/",
+      "Adresa": "Slavka Krautzeka 83",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Ekonomski fakultet u Rijeci",
+      "Link": "//www.efri.uniri.hr/",
+      "Adresa": "Ivana Filipovića 4",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Ekonomski fakultet u Rijeci",
+      "Link": "",
+      "Adresa": "Vukovarska 58",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Fakultet za menadžment u turizmu i ugostiteljstvu",
+      "Link": "http://www.fthm.hr",
+      "Adresa": "Primorska 46",
+      "Grad": "Ika",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Fakultet zdravstvenih studija Sveučilišta u Rijeci",
+      "Link": "//www.fzsri.uniri.hr",
+      "Adresa": "Viktora Cara Emina 5",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Filozofski fakultet u Rijeci",
+      "Link": "//www.ffri.hr",
+      "Adresa": "Sveučilišna avenija 4",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Građevinski fakultet",
+      "Link": "http://www.gradri.uniri.hr",
+      "Adresa": "Ulica Radmile Matejčić 3",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Katedra za medicinsku rehabilitaciju u Opatiji - Thalassotherapia",
+      "Link": "http://thalassotherapia-opatija.hr/",
+      "Adresa": "Maršala Tita 188/1",
+      "Grad": "Opatija",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Katedra za ortopediju Lovran",
+      "Link": "",
+      "Adresa": "Šetalište maršala Tita 1",
+      "Grad": "Lovran",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet, Teologija u Rijeci",
+      "Link": "",
+      "Adresa": "Omladinska 14",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Rijeci",
+      "Link": "",
+      "Adresa": "Viktora Cara Emina 5",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Rijeci",
+      "Link": "",
+      "Adresa": "Janka Polića Kamova 32",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Rijeci",
+      "Link": "http://www.medri.hr",
+      "Adresa": "Braće Branchetta 20",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Pomorski fakultet u Rijeci",
+      "Link": "http://www.pfri.hr",
+      "Adresa": "Studentska 2",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Pomorski fakultet u Rijeci",
+      "Link": "",
+      "Adresa": "Milutina Barača 19",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "http://law.pravri.hr",
+      "Adresa": "Hahlić 6",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Prirodoslovno-matematički fakultet, Zvjezdarnica astronomskog društva Rijeka",
+      "Link": "",
+      "Adresa": "Sveti križ 33",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Studentski centar Rijeka",
+      "Link": "",
+      "Adresa": "Franje Čandeka 4",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Studentski centar Rijeka",
+      "Link": "",
+      "Adresa": "Ulica Radmile Matejčić 5",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Studentski centar Rijeka",
+      "Link": "",
+      "Adresa": "Braće Branchetta 20",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Studentski centar Rijeka - restoran Index",
+      "Link": "http://www.scri.uniri.hr",
+      "Adresa": "Krešimirova 18",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilišna knjižnica Rijeka",
+      "Link": "http://www.svkri.uniri.hr/",
+      "Adresa": "Dolac 1",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilišni centar Cres",
+      "Link": "",
+      "Adresa": "Giovannija Moisea 1",
+      "Grad": "Cres",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilište u Rijeci",
+      "Link": "",
+      "Adresa": "Ulica Radmile Matejčić 2",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilište u Rijeci - Rektorat",
+      "Link": "http://rektor.uniri.hr",
+      "Adresa": "Trg braće Mažuranića 10",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilište u Rijeci Fakultet dentalne medicine",
+      "Link": "",
+      "Adresa": "Krešimirova 40",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilište u Rijeci, Fakultet informatike i digitalnih tehnologija",
+      "Link": "//www.inf.uniri.hr",
+      "Adresa": "Ulica Radmile Matejčić 2",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilište u Rijeci, Fakultet za fiziku",
+      "Link": "//www.phy.uniri.hr",
+      "Adresa": "Ulica Radmile Matejčić 2",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Sveučilište u Rijeci, Fakultet za matematiku",
+      "Link": "//www.math.uniri.hr",
+      "Adresa": "Ulica Radmile Matejčić 2",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Tehnički fakultet - Rijeka",
+      "Link": "http://www.riteh.hr",
+      "Adresa": "Vukovarska 58",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Učiteljski fakultet u Rijeci",
+      "Link": "//www.ufri.hr",
+      "Adresa": "Sveučilišna avenija 6",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Veleučilište u Rijeci",
+      "Link": "http://www.veleri.hr/",
+      "Adresa": "Trpimirova 2",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Veleučilište u Rijeci, Prometni, Upravni i Poslovni odjel Odsjeka Rijeka",
+      "Link": "",
+      "Adresa": "Vukovarska 58",
+      "Grad": "Rijeka",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Centar za znanstveno računanje",
+      "Link": "http://www.csc.unist.hr/",
+      "Adresa": "R. Boškovića 32",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Ekonomski fakultet Split",
+      "Link": "//www.efst.hr",
+      "Adresa": "Ulica Cvite Fiskovića 5",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Fakultet elektrotehnike, strojarstva i brodogradnje",
+      "Link": "http://www.fesb.hr",
+      "Adresa": "R. Boškovića 32",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Fakultet građevinarstva, arhitekture i geodezije u Splitu",
+      "Link": "",
+      "Adresa": "Hrvatskih velikana 38",
+      "Grad": "Žrnovnica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Fakultet građevinarstva, arhitekture i geodezije u Splitu",
+      "Link": "http://www.gradst.hr",
+      "Adresa": "Matice hrvatske 15",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Filozofski fakultet u Splitu",
+      "Link": "",
+      "Adresa": "Poljička cesta 35",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Geodetski fakultet, Opservatorij Hvar",
+      "Link": "",
+      "Adresa": "Put Poljuna 3",
+      "Grad": "Hvar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet u Splitu",
+      "Link": "http://www.kbf-st.hr/",
+      "Adresa": "Zrinjsko-Frankopanska 19",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Katolički bogoslovni fakultet u Splitu",
+      "Link": "",
+      "Adresa": "Put iza nove bolnice 10C",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Kemijsko-tehnološki fakultet",
+      "Link": "",
+      "Adresa": "R. Boškovića 35",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Kineziološki fakultet Split",
+      "Link": "",
+      "Adresa": "Teslina 10",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Kineziološki fakultet Split",
+      "Link": "//www.kifst.hr",
+      "Adresa": "Teslina 6",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Splitu",
+      "Link": "http://www.bsb.mefst.hr",
+      "Adresa": "Spinčićeva 1",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Splitu",
+      "Link": "http://www.mefst.hr",
+      "Adresa": "Šoltanska 2",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Splitu",
+      "Link": "",
+      "Adresa": "Ulica Cvite Fiskovića 3",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Splitu - lokalitet Križine",
+      "Link": "",
+      "Adresa": "Šoltanska 1",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Pomorski fakultet u Splitu",
+      "Link": "",
+      "Adresa": "R. Boškovića 37",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Pravni fakultet",
+      "Link": "http://www.pravst.hr",
+      "Adresa": "Ulica Domovinskog rata 8",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Prirodoslovno-matematički fakultet",
+      "Link": "",
+      "Adresa": "R. Boškovića 33",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu",
+      "Link": "http://www.scst.unist.hr/",
+      "Adresa": "Ulica Cvite Fiskovića 3",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu",
+      "Link": "",
+      "Adresa": "Kopilica 5",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu",
+      "Link": "",
+      "Adresa": "Matice hrvatske 15",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Kantina doma Bruno Bušić",
+      "Link": "",
+      "Adresa": "Spinutska 37",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Kantina na Fakultetu prirodoslovno-matematičkih znanosti i odg. podr.",
+      "Link": "",
+      "Adresa": "Teslina 12",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Kantina Pravnog fakulteta",
+      "Link": "",
+      "Adresa": "Ulica Domovinskog rata 8",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Restoran Hostel Spinut",
+      "Link": "",
+      "Adresa": "Spinutska 39",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Restoran Index",
+      "Link": "",
+      "Adresa": "Svačićeva 8",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Restoran na Ekonomskom fakultetu",
+      "Link": "",
+      "Adresa": "Ulica Cvite Fiskovića 5",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Restoran na FESB-u",
+      "Link": "",
+      "Adresa": "R. Boškovića 32",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Restoran na Medicinskom fakultetu",
+      "Link": "",
+      "Adresa": "Šoltanska 2",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentski centar u Splitu - Studentski dom \"Spinut\"",
+      "Link": "",
+      "Adresa": "Spinutska 39",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilišna knjižnica u Splitu",
+      "Link": "http://svkst.hr/",
+      "Adresa": "R. Boškovića 31",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilišni odjel zdravstvenih studija u Splitu",
+      "Link": "",
+      "Adresa": "R. Boškovića 35",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu",
+      "Link": "",
+      "Adresa": "Sinjska 2",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu",
+      "Link": "",
+      "Adresa": "Polj. kraljice Jelene 1",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu",
+      "Link": "",
+      "Adresa": "R. Boškovića 31",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu",
+      "Link": "",
+      "Adresa": "Matoševa 56",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu",
+      "Link": "",
+      "Adresa": "R. Boškovića 32",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu",
+      "Link": "",
+      "Adresa": "Zrinjsko-Frankopanska 38",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu - Centar za znanstveno-tehnologijski razvitak",
+      "Link": "",
+      "Adresa": "R. Boškovića 31",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu - studij Hotelijerstvo i gastronomija",
+      "Link": "",
+      "Adresa": "Franjevački put 1",
+      "Grad": "Makarska",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu - Sveučilišni odjel za forenzične znanosti",
+      "Link": "",
+      "Adresa": "R. Boškovića 33",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu - Sveučilišni odjel za stručne studije",
+      "Link": "//www.oss.unist.hr",
+      "Adresa": "Kopilica 5",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Sveučilište u Splitu, Sveučilišni odjel za studije mora",
+      "Link": "//more.unist.hr/",
+      "Adresa": "R. Boškovića 33",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija",
+      "Link": "",
+      "Adresa": "Vrančićeva 17",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija",
+      "Link": "",
+      "Adresa": "Zrinjsko-Frankopanska 25",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija",
+      "Link": "",
+      "Adresa": "Hrvojeva 8",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija",
+      "Link": "",
+      "Adresa": "Hercegovačka 65",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija",
+      "Link": "//www.umas.hr",
+      "Adresa": "Zagrebačka 3",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija",
+      "Link": "http://www.umas.hr",
+      "Adresa": "Glagoljaška 18",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Umjetnička akademija (nastavna baza Arheološki muzej u Splitu)",
+      "Link": "",
+      "Adresa": "Zrinjsko-Frankopanska 25",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Visoka škola za menadžment i dizajn Aspira",
+      "Link": "http://aspira.hr",
+      "Adresa": "Ulica Mike Tripala 6",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Visoka škola za menadžment i dizajn Aspira",
+      "Link": "",
+      "Adresa": "Ulica Domovinskog rata 65",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Vojarna Lora, Sveti Nikola",
+      "Link": "",
+      "Adresa": "Zrinjsko-Frankopanska 207A",
+      "Grad": "Split",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Agronomski fakultet",
+      "Link": "",
+      "Adresa": "Sljeme 1",
+      "Grad": "Sljeme",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Krapinsko-zagorska županija"
+    },
+    {
+      "Ime": "Fakultet organizacije i informatike",
+      "Link": "",
+      "Adresa": "Prilaz dr. Franje Tuđmana 15",
+      "Grad": "Zabok",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Krapinsko-zagorska županija"
+    },
+    {
+      "Ime": "Fakultet za menadžment u turizmu i ugostiteljstvu",
+      "Link": "",
+      "Adresa": "Prilaz dr. Franje Tuđmana 15",
+      "Grad": "Zabok",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Krapinsko-zagorska županija"
+    },
+    {
+      "Ime": "Veleučilište Hrvatsko Zagorje Krapina",
+      "Link": "http://www.vhzk.hr/",
+      "Adresa": "Šetalište hrvatskog narodnog preporoda 6",
+      "Grad": "Krapina",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Krapinsko-zagorska županija"
+    },
+    {
+      "Ime": "Veleučilište Hrvatsko Zagorje Krapina",
+      "Link": "",
+      "Adresa": "Trg Stjepana Radića 8",
+      "Grad": "Krapina",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Krapinsko-zagorska županija"
+    },
+    {
+      "Ime": "Agronomski fakultet",
+      "Link": "",
+      "Adresa": "Don Frana Bulića 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Inter Univerzitetski Centar - IUC",
+      "Link": "//www.iuc.hr",
+      "Adresa": "Don Frana Bulića 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Libertas međunarodno sveučilište",
+      "Link": "http://www.libertas.hr/",
+      "Adresa": "Svetoga Dominika 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Poslijediplomsko središte Dubrovnik",
+      "Link": "http://www.mshs.hr/",
+      "Adresa": "Don Frana Bulića 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Prirodoslovno matematički fakultet - Geofizički odsjek - Seizmološka služba u Dubrovniku",
+      "Link": "",
+      "Adresa": "Ćira Carića 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Rochester Institute of Technology",
+      "Link": "http://www.croatia.rit.edu/naslovna/",
+      "Adresa": "Don Frana Bulića 6",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Studentski dom Sveučilišta u Dubrovniku",
+      "Link": "",
+      "Adresa": "Marka Marojice 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku",
+      "Link": "http://www.ftvt.hr",
+      "Adresa": "Lapadska obala 7",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku",
+      "Link": "http://www.unidu.hr",
+      "Adresa": "Branitelja Dubrovnika 41",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku",
+      "Link": "//www.unidu.hr",
+      "Adresa": "Branitelja Dubrovnika 29",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku",
+      "Link": "",
+      "Adresa": "Ulica Tina Ujevića 1",
+      "Grad": "Ploče",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku",
+      "Link": "http://www.unidu.hr",
+      "Adresa": "Ćira Carića 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku, Studentski centar",
+      "Link": "",
+      "Adresa": "Kralja Tomislava 7",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Zavod za mediteranske kulture",
+      "Link": "",
+      "Adresa": "Marka Marojice 4",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Istarsko veleučilište - Universita Istriana di scienze applicate",
+      "Link": "",
+      "Adresa": "Preradovićeva ulica - Via Petar Preradović 9D",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Istarsko veleučilište - Universita Istriana di scienze applicate",
+      "Link": "//www.iv.hr/",
+      "Adresa": "Riva - Riva 6",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Istarsko veleučilište - Universita Istriana di scienze applicate",
+      "Link": "",
+      "Adresa": "Riva - Riva 4",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Studentski dom",
+      "Link": "",
+      "Adresa": "Zagrebačka ulica - Via Zagabria 30",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Studentski restoran",
+      "Link": "",
+      "Adresa": "Zagrebačka ulica - Via Zagabria 30",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli",
+      "Link": "",
+      "Adresa": "Rovinjska ulica - Via Rovigno 14",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli",
+      "Link": "http://www.unipu.hr",
+      "Adresa": "Ulica Matetića Ronjgova - Via Ivan Matetić Ronjgov 1",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli",
+      "Link": "http://www.unipu.hr",
+      "Adresa": "Zagrebačka ulica - Via Zagabria 30",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli",
+      "Link": "",
+      "Adresa": "Preradovićeva ulica - Via Petar Preradović 1",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli",
+      "Link": "http://www.unipu.hr/",
+      "Adresa": "Preradovićeva ulica - Via Petar Preradović 1/1",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli - Arheološki muzej Istre",
+      "Link": "//www.ami-pula.hr",
+      "Adresa": "Carrarina ulica - Via Giovanni Carrara 3",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Sveučilište Jurja Dobrile u Puli - Sveučilišna knjižnica",
+      "Link": "http://www.skpu.hr",
+      "Adresa": "Herkulov prolaz - Vicolo Ercole 1",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Veleučilište u Rijeci",
+      "Link": "",
+      "Adresa": "154. brigade Hrvatske vojske 7",
+      "Grad": "Pazin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Veleučilište u Rijeci, Poljoprivredni odjel",
+      "Link": "",
+      "Adresa": "Karla Huguesa 8",
+      "Grad": "Poreč - Parenzo",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Visoka škola menadžmenta i sigurnosti SECURUS",
+      "Link": "http://www.vs-securus.hr/",
+      "Adresa": "Ulica Stoja - Via Stoia 2",
+      "Grad": "Pula",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Studentski centar Šibenik",
+      "Link": "http://www.scsi.hr/",
+      "Adresa": "Put Bioca 8",
+      "Grad": "Šibenik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Šibensko-kninska županija"
+    },
+    {
+      "Ime": "Studentski centar Šibenik - restoran \"SKVUŠ\"",
+      "Link": "",
+      "Adresa": "Trg A. Hebranga 24",
+      "Grad": "Šibenik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Šibensko-kninska županija"
+    },
+    {
+      "Ime": "Sveučilište u Zagrebu, Fakultet elektrotehnike i računarstva",
+      "Link": "",
+      "Adresa": "Velimira Škorpika 6",
+      "Grad": "Šibenik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Šibensko-kninska županija"
+    },
+    {
+      "Ime": "Veleučilište \"Marko Marulić\"",
+      "Link": "",
+      "Adresa": "Krešimirova 20",
+      "Grad": "Knin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Šibensko-kninska županija"
+    },
+    {
+      "Ime": "Veleučilište \"Marko Marulić\"",
+      "Link": "http://www.veleknin.hr/",
+      "Adresa": "Krešimirova 30",
+      "Grad": "Knin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Šibensko-kninska županija"
+    },
+    {
+      "Ime": "Veleučilište u Šibeniku",
+      "Link": "http://www.vus.hr",
+      "Adresa": "Trg A. Hebranga 11",
+      "Grad": "Šibenik",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Šibensko-kninska županija"
+    },
+    {
+      "Ime": "Fakultet organizacije i informatike",
+      "Link": "",
+      "Adresa": "Ulica Petra Preradovića 15",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Fakultet organizacije i informatike",
+      "Link": "http://www.foi.hr",
+      "Adresa": "Pavlinska ulica 2",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Fakultet organizacije i informatike",
+      "Link": "",
+      "Adresa": "Prilaz Fausta Vrančića 3",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Geotehnički fakultet Varaždin",
+      "Link": "//www.gfv.hr",
+      "Adresa": "Hallerova aleja 7",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Studentski centar Varaždin",
+      "Link": "//www.scvz.unizg.hr",
+      "Adresa": "Ulica Julija Merlića 9",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Sveučilište Sjever",
+      "Link": "",
+      "Adresa": "Hallerova aleja 7",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Sveučilište Sjever",
+      "Link": "",
+      "Adresa": "Ulica 104. brigade 3",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Tekstilno tehnološki fakultet, Tekstilno - tehnološki odjel",
+      "Link": "",
+      "Adresa": "Hallerova aleja 6A",
+      "Grad": "Varaždin",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Međimursko veleučilište u Čakovcu",
+      "Link": "//www.mev.hr",
+      "Adresa": "Ulica bana Josipa Jelačića 22A",
+      "Grad": "Čakovec",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Međimurska županija"
+    },
+    {
+      "Ime": "Učiteljski fakultet - Središte u Čakovcu",
+      "Link": "",
+      "Adresa": "Ulica dr. Ante Starčevića 55",
+      "Grad": "Čakovec",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Međimurska županija"
+    },
+    {
+      "Ime": "Studentski centar Karlovac",
+      "Link": "//www.scka.hr",
+      "Adresa": "Frana Krste Frankopana 5",
+      "Grad": "Karlovac",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Veleučilište u Karlovcu",
+      "Link": "",
+      "Adresa": "Trg Josipa Jurja Strossmayera 9",
+      "Grad": "Karlovac",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Veleučilište u Karlovcu",
+      "Link": "http://www.vuka.hr",
+      "Adresa": "Ivana Meštrovića 10",
+      "Grad": "Karlovac",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Osijeku",
+      "Link": "",
+      "Adresa": "Dr. Franje Tuđmana 4",
+      "Grad": "Sveta Nedelja",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Studentski centar Karlovac - podružnica Jastrebarsko",
+      "Link": "",
+      "Adresa": "Štrosmajerov trg 3",
+      "Grad": "Jastrebarsko",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Studentski zbor Veleučilišta Velika Gorica",
+      "Link": "http://www.vvg.hr/studenti/",
+      "Adresa": "Zagrebačka 5",
+      "Grad": "Velika Gorica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Veleučilište s pravom javnosti Baltazar Zaprešić",
+      "Link": "http://www.vspu.hr/",
+      "Adresa": "Ulica Vladimira Novaka 23",
+      "Grad": "Zaprešić",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Veleučilište Velika Gorica",
+      "Link": "http://www.vvg.hr/",
+      "Adresa": "Zagrebačka 5",
+      "Grad": "Velika Gorica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Visoka škola Ivanić-Grad",
+      "Link": "",
+      "Adresa": "Moslavačka ulica 11",
+      "Grad": "Ivanić-Grad",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Visoka škola Ivanić-Grad",
+      "Link": "",
+      "Adresa": "Moslavačka ulica 13",
+      "Grad": "Ivanić-Grad",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Ekonomski fakultet u Rijeci - dislocirani studij u Bjelovaru",
+      "Link": "",
+      "Adresa": "Antuna Branka Šimića 1",
+      "Grad": "Bjelovar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "Ime": "Veleučilište u Bjelovaru",
+      "Link": "http://vtsbj.hr/",
+      "Adresa": "Antuna Branka Šimića 1",
+      "Grad": "Bjelovar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "Ime": "Veleučilište u Bjelovaru",
+      "Link": "",
+      "Adresa": "Trg Eugena Kvaternika 4",
+      "Grad": "Bjelovar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "Ime": "Sveučilište Sjever",
+      "Link": "//www.unin.hr",
+      "Adresa": "Trg dr. Žarka Dolinara 1",
+      "Grad": "Koprivnica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Koprivničko-križevačka županija"
+    },
+    {
+      "Ime": "Sveučilište Sjever",
+      "Link": "",
+      "Adresa": "Trg dr. Žarka Dolinara 7",
+      "Grad": "Koprivnica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Koprivničko-križevačka županija"
+    },
+    {
+      "Ime": "Sveučilište Sjever",
+      "Link": "",
+      "Adresa": "Trg Svetog Jurja 1",
+      "Grad": "Đurđevac",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Koprivničko-križevačka županija"
+    },
+    {
+      "Ime": "Visoko gospodarsko učilište u Križevcima",
+      "Link": "http://www.vguk.hr/",
+      "Adresa": "Ulica Milislava Demerca 1",
+      "Grad": "Križevci",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Koprivničko-križevačka županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Trg plemenitih Mihalovića 1",
+      "Grad": "Orahovica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Bana Josipa Jelačića 19A",
+      "Grad": "Orahovica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Medicinski fakultet u Osijeku",
+      "Link": "",
+      "Adresa": "Trg plemenitih Mihalovića 1",
+      "Grad": "Orahovica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Studentski dom Virovitica",
+      "Link": "",
+      "Adresa": "Ulica Matije Gupca 78/4",
+      "Grad": "Virovitica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Veleučilište u Virovitici",
+      "Link": "//vsmti.hr",
+      "Adresa": "Ulica Matije Gupca 78",
+      "Grad": "Virovitica",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Veleučilište \"Lavoslav Ružička\"",
+      "Link": "",
+      "Adresa": "Mirogojska 18",
+      "Grad": "Vukovar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Vukovarsko-srijemska županija"
+    },
+    {
+      "Ime": "Veleučilište \"Lavoslav Ružička\"",
+      "Link": "http://www.vevu.hr/",
+      "Adresa": "Blage Zadre 2",
+      "Grad": "Vukovar",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Vukovarsko-srijemska županija"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku",
+      "Link": "",
+      "Adresa": "Put Dr. Ante Starčevića 143",
+      "Grad": "Čibača",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska"
+    },
+    {
+      "Ime": "Sveučilište u Dubrovniku, Razvojno - istraživački centar",
+      "Link": "",
+      "Adresa": "Bistrina 3",
+      "Grad": "Stupa",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Dubrovačko-neretvanska"
+    },
+    {
+      "Ime": "Fakultet turizma i ruralnog razvoja u Požegi",
+      "Link": "",
+      "Adresa": "Osječka 7",
+      "Grad": "Požega",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Požeško-slavonska županija"
+    },
+    {
+      "Ime": "Fakultet turizma i ruralnog razvoja u Požegi",
+      "Link": "//www.ftrr.hr",
+      "Adresa": "Vukovarska 17",
+      "Grad": "Požega",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Požeško-slavonska županija"
+    },
+    {
+      "Ime": "Fakultet turizma i ruralnog razvoja u Požegi - Studentski centar",
+      "Link": "",
+      "Adresa": "Dr. Franje Tuđmana 17",
+      "Grad": "Požega",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Požeško-slavonska županija"
+    },
+    {
+      "Ime": "Libertas međunarodno sveučilište",
+      "Link": "",
+      "Adresa": "Ulica hrvatskih branitelja 8",
+      "Grad": "Kutina",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Sisačko-moslavačka županija"
+    },
+    {
+      "Ime": "Metalurški fakultet",
+      "Link": "http://siscia.simet.hr",
+      "Adresa": "Aleja narodnih heroja 3",
+      "Grad": "Sisak",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Sisačko-moslavačka županija"
+    },
+    {
+      "Ime": "Učiteljski fakultet - Središte u Petrinji",
+      "Link": "//www.vusp.hr",
+      "Adresa": "Trg Matice hrvatske 12",
+      "Grad": "Petrinja",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Sisačko-moslavačka županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Matije Antuna Relkovića 4",
+      "Grad": "Nova Gradiška",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Fakultet za dentalnu medicinu i zdravstvo",
+      "Link": "",
+      "Adresa": "Ulica dr. Andrije Štampara 42",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Fakultet za odgojne i obrazovne znanosti - dislocirani studij u Slavonskom Brodu",
+      "Link": "",
+      "Adresa": "Ulica Ivana Gundulića 20",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Strojarski fakultet u Slavonskom Brodu",
+      "Link": "http://www.sfsb.hr",
+      "Adresa": "Ulica Ivana Gundulića 20",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Strojarski fakultet u Slavonskom Brodu",
+      "Link": "http://www.sfsb.hr/",
+      "Adresa": "Trg \"Ivana Brlić Mažuranić\" 2",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Studentski centar u Slavonskom Brodu",
+      "Link": "//www.stucsb.hr",
+      "Adresa": "Ulica Petra Svačića 2A",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Sveučilište u Slavonskom Brodu",
+      "Link": "",
+      "Adresa": "Ulica Matije Gupca 24",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Sveučilište u Slavonskom Brodu",
+      "Link": "http://www.unisb.hr/",
+      "Adresa": "Trg Stjepana Miletića 2",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Sveučilište u Slavonskom Brodu",
+      "Link": "https://www.unisb.hr/",
+      "Adresa": "Ulica 108. brigade ZNG 42",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Sveučilište u Slavonskom Brodu",
+      "Link": "",
+      "Adresa": "Ulica Ivana Cankara 76",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Sveučilište u Slavonskom Brodu",
+      "Link": "",
+      "Adresa": "Ulica Eugena Kumičića 55",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Sveučilište u Slavonskom Brodu - laboratorij i e-Učionica",
+      "Link": "",
+      "Adresa": "Ulica 108. brigade ZNG 36",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Odjel za nastavničke studije u Gospiću, Sveučilišta u Zadru",
+      "Link": "",
+      "Adresa": "Ulica dr. Ante Starčevića 12",
+      "Grad": "Gospić",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Ličko-senjska županija"
+    },
+    {
+      "Ime": "Veleučilište \"Nikola Tesla\" u Gospiću",
+      "Link": "//www.velegs-nikolatesla.hr",
+      "Adresa": "Ulica Bana Ivana Karlovića 16",
+      "Grad": "Gospić",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Ličko-senjska županija"
+    },
+    {
+      "Ime": "Veleučilište \"Nikola Tesla\" u Gospiću",
+      "Link": "",
+      "Adresa": "Trg dr. Franje Tuđmana 5",
+      "Grad": "Otočac",
+      "Kategorija": "Akademska, Punopravna iz školstva, Punopravna",
+      "Zupanija": "Ličko-senjska županija"
+    }
+  ]
+}

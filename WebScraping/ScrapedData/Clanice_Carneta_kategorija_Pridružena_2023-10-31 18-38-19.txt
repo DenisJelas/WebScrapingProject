@@ -1,0 +1,1111 @@
+{
+  "vrijeme_Prikupljanja": "2023-10-31T00:00:00+01:00",
+  "ukupan_Broj": 138,
+  "odabrana_Kategorija": "Pridružena",
+  "Lista_Clanica": [
+    {
+      "Ime": "Američka međunarodna škola u Zagrebu",
+      "Link": "//www.aisz.hr",
+      "Adresa": "Ulica Damira Tomljanovića - Gavrana 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Bogoslovni institut",
+      "Link": "http://www.bogoslovni-institut.hr/",
+      "Adresa": "Ulica Ivana Šibla 22",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Callegari - talijanska škola mode i dizajna",
+      "Link": "//www.callegari.hr",
+      "Adresa": "Gajeva ulica 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Centar kulture na Peščenici",
+      "Link": "",
+      "Adresa": "Ivanićgradska ulica 41A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Centar za istraživanje, edukaciju i primjenu novih znanja UP2DATE",
+      "Link": "",
+      "Adresa": "Ulica grada Mainza 29",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Centar za politološka istraživanja",
+      "Link": "//www.cpi.hr",
+      "Adresa": "Gupčeva ulica 14A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Dizajn interijera \"Mirjana Mikulec\" - Ustanova za obrazovanje odraslih",
+      "Link": "",
+      "Adresa": "Ulica Josipa Stadlera 76",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "EFFECTUS poduzetnički studiji - visoko učilište",
+      "Link": "//www.effectus.com.hr",
+      "Adresa": "Trg Johna Fitzgeralda Kennedyja 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Europski obrazovni centar",
+      "Link": "",
+      "Adresa": "Ulica Ivana Meštrovića 35",
+      "Grad": "Sesvete",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Filozofsko - teološki institut Družbe Isusove",
+      "Link": "http://www.ftidi.hr",
+      "Adresa": "Jordanovac 110",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Fitnes učilište",
+      "Link": "http://fitnes-uciliste.hr/",
+      "Adresa": "Avenija Dubrovnik 15",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Genos d.o.o. za vještačenje i analize",
+      "Link": "",
+      "Adresa": "Borongajska cesta 83H",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatska akademska sportska udruga SUBOS",
+      "Link": "//www.subos.hr",
+      "Adresa": "Miramarska cesta 20",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatska energetska regulatorna agencija",
+      "Link": "http://www.hera.hr/",
+      "Adresa": "Ulica grada Vukovara 14",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatska udruga ravnatelja osnovnih škola",
+      "Link": "//huros.skole.hr",
+      "Adresa": "Ulica sv. Leopolda Mandića 55",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatska vatrogasna zajednica",
+      "Link": "http://www.hvz.hr/",
+      "Adresa": "Selska cesta 90A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatska zajednica tehničke kulture",
+      "Link": "http://www.hztk.hr/",
+      "Adresa": "Dalmatinska ulica 12",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski Crveni križ",
+      "Link": "http://www.hck.hr",
+      "Adresa": "Ulica Crvenog križa 14",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski državni arhiv",
+      "Link": "",
+      "Adresa": "Trg Ivana, Antuna i Vladimira Mažuranića 5",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski državni arhiv",
+      "Link": "",
+      "Adresa": "Savska cesta 131",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski memorijalno-dokumentacijski centar Domovinskog rata",
+      "Link": "//www.centardomovinskograta.hr",
+      "Adresa": "Trg Marka Marulića 21",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski olimpijski odbor",
+      "Link": "",
+      "Adresa": "Trg Krešimira Ćosića 11",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski savez građevinskih inženjera",
+      "Link": "http://www.hsgi.org",
+      "Adresa": "Berislavićeva ulica 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatski savez informatičara (HSIN)",
+      "Link": "//www.hsin.hr",
+      "Adresa": "Dalmatinska ulica 12",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatsko fizikalno društvo",
+      "Link": "//www.hfd.hr",
+      "Adresa": "Bijenička cesta 32",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatsko kemijsko društvo",
+      "Link": "http://www.hkd.hr/",
+      "Adresa": "Horvatovac 102A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Hrvatsko prirodoslovno društvo",
+      "Link": "",
+      "Adresa": "Trg žrtava fašizma 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "IDEM - Učilište za obrazovanje odraslih",
+      "Link": "//ucilisteidem.hr",
+      "Adresa": "Ilica 48",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Imunološki zavod d.d.",
+      "Link": "http://imz.hr/",
+      "Adresa": "Rockefellerova ulica 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "http://www.igh.hr",
+      "Adresa": "Ulica Janka Rakuše 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Internet Institut",
+      "Link": "//www.hr-gateway.org",
+      "Adresa": "Ilica 60",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Klub hrvatskih Humboldtovaca",
+      "Link": "//www.humboldt-club.hr",
+      "Adresa": "Trg Marka Marulića 19",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Knjižnice grada Zagreba",
+      "Link": "//www.kgz.hr",
+      "Adresa": "Trg Ante Starčevića 6",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Končar - Institut za elektrotehniku d.o.o.",
+      "Link": "http://www.koncar-institut.hr/",
+      "Adresa": "Fallerovo šetalište 22",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Matica hrvatska",
+      "Link": "http://www.matica.hr/",
+      "Adresa": "Ulica Matice hrvatske 2",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "MDS Škola informatike",
+      "Link": "",
+      "Adresa": "Primorska ulica 7A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Narodno sveučilište Dubrava",
+      "Link": "",
+      "Adresa": "Cerska ulica 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Normala - udruga za promicanje nastave matematike",
+      "Link": "http://www.normala.hr/",
+      "Adresa": "Pantovčak 164",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Obrtničko učilište - ustanova za obrazovanje odraslih",
+      "Link": "//www.obrtnicko-uciliste.hr",
+      "Adresa": "Ilica 49",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Obrtničko učilište - ustanova za obrazovanje odraslih",
+      "Link": "",
+      "Adresa": "Trg Ivana, Antuna i Vladimira Mažuranića 13",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Oikon d.o.o. - Institut za primijenjenu ekologiju",
+      "Link": "http://www.oikon.hr/",
+      "Adresa": "Trg senjskih uskoka 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Invictus",
+      "Link": "http://www.invictus.hr/",
+      "Adresa": "Dubečka ulica 94",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Morana",
+      "Link": "",
+      "Adresa": "Gajeva ulica 22",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Ratna škola \"Ban Josip Jelačić\"",
+      "Link": "",
+      "Adresa": "Ilica 256B",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Školski sportski savez grada Zagreba",
+      "Link": "http://www.skolski-sport-zg.hr/",
+      "Adresa": "Boškovićeva ulica 4",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Sportsko učilište PESG",
+      "Link": "",
+      "Adresa": "Varšavska ulica 17",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Učilište Ambitio ustanova za obrazovanje odraslih",
+      "Link": "http://uciliste-ambitio.hr/",
+      "Adresa": "Kuniščak 1A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Učilište EU PROJEKTI - ustanova za obrazovanje odraslih",
+      "Link": "http://www.uep.hr/",
+      "Adresa": "Froudeova ulica 3",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Učilište za cestovni promet - Ustanova za obrazovanje odraslih",
+      "Link": "http://www.ucp.hr/",
+      "Adresa": "Radnička cesta 184",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Udruga inovatora Hrvatske",
+      "Link": "http://www.inovatorstvo.com/",
+      "Adresa": "Dalmatinska ulica 12",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Udruga za darovitost DAR",
+      "Link": "",
+      "Adresa": "Medulićeva ulica 34",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Ustanova za cjeloživotno obrazovanje CTZ",
+      "Link": "",
+      "Adresa": "Ulica Šandora Brešćenskoga 4",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Ustanova za obrazovanje odraslih Galbanum",
+      "Link": "",
+      "Adresa": "Jalovečka ulica 1",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Vatrogasna škola - Ustanova za obrazovanje odraslih",
+      "Link": "",
+      "Adresa": "Selska cesta 90A",
+      "Grad": "Zagreb",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Dom za odgoj djece i mladeži Zadar",
+      "Link": "",
+      "Adresa": "Ulica Ivana Meštrovića 3",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Ulica Dobriše Cesarića 1",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "http://ztkzd.skole.hr/",
+      "Adresa": "Ulica Ruđera Boškovića 5",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Put Bokanjca 26",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Ulica Brne Krnarutića 2",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Ulica dr. Franje Tuđmana 24M",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Trg Bleiburških žrtava 1",
+      "Grad": "Bibinje",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Obala kneza Trpimira 11",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Ulica Andrije Hebranga 11A",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Ulica Majke Margarite 2",
+      "Grad": "Zadar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Zadarske županije",
+      "Link": "",
+      "Adresa": "Ul. Petra Zoranića 10",
+      "Grad": "Obrovac",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zadarska županija"
+    },
+    {
+      "Ime": "Edunova - ustanova za obrazovanje odraslih",
+      "Link": "//www.edunova.hr",
+      "Adresa": "Ulica Lorenza Jägera 5",
+      "Grad": "Osijek",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Genos d.o.o. za vještačenje i analize",
+      "Link": "",
+      "Adresa": "Vatrogasna ulica 112",
+      "Grad": "Osijek",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Drinska 18",
+      "Grad": "Osijek",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Učilište Janus",
+      "Link": "//www.uciliste-janus.hr",
+      "Adresa": "Ivana Gundulića 5",
+      "Grad": "Osijek",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Osijek",
+      "Link": "",
+      "Adresa": "Trg Jurja Križanića 1",
+      "Grad": "Osijek",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Osječko-baranjska županija"
+    },
+    {
+      "Ime": "Dječji vrtić \"Cvrčak\"",
+      "Link": "",
+      "Adresa": "Omladinska 14",
+      "Grad": "Mali Lošinj",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Dječji vrtić Girice",
+      "Link": "",
+      "Adresa": "Šetalište 20. travnja 52",
+      "Grad": "Cres",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Dom mladih",
+      "Link": "",
+      "Adresa": "Laginjina 15",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Grad Rijeka",
+      "Link": "http://www.rijeka.hr/",
+      "Adresa": "Korzo 16",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Gradska knjižnica i čitaonica Mali Lošinj - Knjižnica Unije",
+      "Link": "//knjiznica-losinj.hr",
+      "Adresa": "Unije 115",
+      "Grad": "Unije",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Gradska knjižnica Rijeka",
+      "Link": "http://www.gkr.hr",
+      "Adresa": "Matije Gupca 23",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Hrvatski astronomski savez",
+      "Link": "//www.astronomskisavez.hr",
+      "Adresa": "Zagrebačka 2",
+      "Grad": "Mali Lošinj",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Hrvatski astronomski savez",
+      "Link": "",
+      "Adresa": "Artatore 72",
+      "Grad": "Mali Lošinj",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Kukuljanovo 182/2",
+      "Grad": "Kukuljanovo",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Nacionalni centar tehničke kulture Kraljevica",
+      "Link": "",
+      "Adresa": "Strossmayerova 34",
+      "Grad": "Kraljevica",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Područni objekt \"Žalići\"",
+      "Link": "",
+      "Adresa": "Marija Marinculića 21",
+      "Grad": "Nerezine",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Područni objekt \"Žižula\"",
+      "Link": "",
+      "Adresa": "Vladimira Nazora 41A",
+      "Grad": "Veli Lošinj",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Step Ri znanstveno - tehnologijski park Sveučilišta u Rijeci d.o.o.",
+      "Link": "http://www.step.uniri.hr/",
+      "Adresa": "Ulica Radmile Matejčić 10",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Udruga knjžnica \"Konzorcij CROLIST\"",
+      "Link": "",
+      "Adresa": "Dolac 1",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Vatrogasna škola - Ustanova za obrazovanje odraslih",
+      "Link": "",
+      "Adresa": "Radnička 31",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Visoka poslovna škola \"PAR\"",
+      "Link": "//www.par.hr",
+      "Adresa": "Trg Riječke rezolucije 4",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Rijeka",
+      "Link": "",
+      "Adresa": "Verdieva 11",
+      "Grad": "Rijeka",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Primorsko-goranska županija"
+    },
+    {
+      "Ime": "Arheološki muzej u Splitu",
+      "Link": "",
+      "Adresa": "Zrinjsko-Frankopanska 25",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Centar izvrsnosti Splitsko-dalmatinske županije",
+      "Link": "//ci-sdz.hr",
+      "Adresa": "R. Boškovića 25",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Centar za kulturu i cjeloživotno obrazovanje Zlatna vrata",
+      "Link": "http://zlatnavrata.hr/",
+      "Adresa": "Dioklecijanova 7",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Društvo znanost.org",
+      "Link": "//www.znanost.org",
+      "Adresa": "Klarina 16",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "DUMP Udruga mladih programera",
+      "Link": "//www.dump.hr",
+      "Adresa": "R. Boškovića 32",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Matice hrvatske 15",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Muzej grada Splita",
+      "Link": "",
+      "Adresa": "Papalićeva 1",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Muzej grada Splita (Dioklecijanova palača)",
+      "Link": "",
+      "Adresa": "Iza Vestibula 3",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Muzej grada Splita (Galerija Emanuela Vidovića)",
+      "Link": "",
+      "Adresa": "Polj. kraljice Jelene 1",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Prirodoslovni muzej i zoološki vrt",
+      "Link": "",
+      "Adresa": "Kolombatovićevo šet. 2",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Prirodoslovni muzej i zoološki vrt",
+      "Link": "",
+      "Adresa": "Polj. kneza Trpimira 3",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Škola stranih jezika Katedra",
+      "Link": "http://www.katedra-trogir.hr/",
+      "Adresa": "Gradska ulica 35",
+      "Grad": "Trogir",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Studentska udruga Liberato",
+      "Link": "",
+      "Adresa": "Kopilica 5",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Učilište Jantar",
+      "Link": "",
+      "Adresa": "Poljička cesta 26A",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Učilište JANTAR - ustanova za obrazovanje odraslih",
+      "Link": "http://www.jantar.hr",
+      "Adresa": "Ulica Antuna Branka Šimića 28",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "UNIST Tehnološki park",
+      "Link": "//www.unist.hr",
+      "Adresa": "Matoševa 56",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Vatrogasna škola - Ustanova za obrazovanje odraslih",
+      "Link": "",
+      "Adresa": "Hercegovačka 18",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Visoka poslovna škola MINERVA",
+      "Link": "http://vps-minerva.hr/",
+      "Adresa": "Ulica sv. Duje 8A",
+      "Grad": "Dugopolje",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Visoka škola ARCA",
+      "Link": "//www.visokaskolaarca.hr",
+      "Adresa": "Kopilica 5",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Split",
+      "Link": "",
+      "Adresa": "Varaždinska 53",
+      "Grad": "Split",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Splitsko-dalmatinska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Vukovarska 8",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Javna ustanova za upravljanje zaštićenim dijelovima prirode Dubrovačko-neretvanske županije",
+      "Link": "http://zastita-prirode-dnz.hr/",
+      "Adresa": "Branitelja Dubrovnika 41",
+      "Grad": "Dubrovnik",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Rizzijeva ulica - Via Lodovico Rizzi 40",
+      "Grad": "Pula",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište \"Ante Babić\"",
+      "Link": "http://uciliste-umag.hr/",
+      "Adresa": "Trgovačka ulica - Via Commerciale 6",
+      "Grad": "Umag - Umago",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Buje",
+      "Link": "",
+      "Adresa": "Trg Josipa Broza Tita - Piazza Josip Broz Tito 6",
+      "Grad": "Buje - Buie",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Studentska udruga MC \"Student\" Sveučilišta Jurja Dobrile u Puli",
+      "Link": "",
+      "Adresa": "Gajeva ulica - Via Ljudevit Gaj 3",
+      "Grad": "Pula",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Istarska županija"
+    },
+    {
+      "Ime": "Institut IGH d.d.",
+      "Link": "",
+      "Adresa": "Hallerova aleja 7",
+      "Grad": "Varaždin",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Tehnološki park Varaždin d.o.o.",
+      "Link": "//www.tp-vz.hr",
+      "Adresa": "Zagrebačka ulica 89",
+      "Grad": "Varaždin",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Varaždinska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište \"Novak\"",
+      "Link": "http://www.pounovak.hr/",
+      "Adresa": "Ulica braće Radića 69",
+      "Grad": "Mala Subotica",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Međimurska županija"
+    },
+    {
+      "Ime": "Gradska knjižnica I. G. Kovačić",
+      "Link": "http://gkka.hr/",
+      "Adresa": "Ljudevita Šestića 1",
+      "Grad": "Karlovac",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Opća bolnica Karlovac",
+      "Link": "http://bolnica-karlovac.hr/",
+      "Adresa": "Dr. Andrije Štampara 3",
+      "Grad": "Karlovac",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Duga Resa",
+      "Link": "http://www.poudr.hr/",
+      "Adresa": "Trg svetog Jurja 3",
+      "Grad": "Duga Resa",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Ustanova za obrazovanje odraslih Praxis",
+      "Link": "//uciliste-praxis.hr",
+      "Adresa": "Matka Laginje 1B",
+      "Grad": "Karlovac",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Karlovac",
+      "Link": "",
+      "Adresa": "Maksimilijana Vrhovca 15",
+      "Grad": "Karlovac",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Karlovačka županija"
+    },
+    {
+      "Ime": "Centar za rehabilitaciju Stančić",
+      "Link": "http://centar-stancic.hr/",
+      "Adresa": "Zagrebačka ulica 23",
+      "Grad": "Dugo Selo",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Institut za istraživanje i razvoj održivih ekosustava",
+      "Link": "http://www.ires.hr/",
+      "Adresa": "Jagodno 100A",
+      "Grad": "Jagodno",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Zagrebačka županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište",
+      "Link": "",
+      "Adresa": "Ulica Ivana Zakmardija Dijankovečkog 5",
+      "Grad": "Križevci",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Koprivničko-križevačka županija"
+    },
+    {
+      "Ime": "Panonski drvni centar kompetencija d.o.o.",
+      "Link": "",
+      "Adresa": "Ulica Vinkovačka cesta 19A",
+      "Grad": "Virovitica",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Tehnološko inovacijski centar Virovitica",
+      "Link": "//www.ticvt.hr",
+      "Adresa": "Ulica Matije Gupca 80",
+      "Grad": "Virovitica",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Virovitičko-podravska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Vinkovci",
+      "Link": "",
+      "Adresa": "Pavleka Miškina 10",
+      "Grad": "Vinkovci",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Vukovarsko-srijemska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Vinkovci",
+      "Link": "",
+      "Adresa": "Stanka Vraza 11",
+      "Grad": "Vukovar",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Vukovarsko-srijemska županija"
+    },
+    {
+      "Ime": "Učilište Cibalae-Ustanova za obrazovanje odraslih",
+      "Link": "//uciliste-cibalae.hr",
+      "Adresa": "Vatrogasna 5",
+      "Grad": "Vinkovci",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Vukovarsko-srijemska županija"
+    },
+    {
+      "Ime": "Gradska knjižnica i čitaonica Požega",
+      "Link": "http://www.gkpz.hr/",
+      "Adresa": "Antuna Kanižlića 1",
+      "Grad": "Požega",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Požeško-slavonska županija"
+    },
+    {
+      "Ime": "Ustanova za obrazovanje odraslih \"Maestro\"",
+      "Link": "http://uciliste-maestro.hr/",
+      "Adresa": "Zrinska 65",
+      "Grad": "Požega",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Požeško-slavonska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Požega",
+      "Link": "",
+      "Adresa": "Vukovarska 8",
+      "Grad": "Požega",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Požeško-slavonska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Kutina",
+      "Link": "http://pou-kutina.hr/",
+      "Adresa": "Ulica Stjepana Radića 3",
+      "Grad": "Kutina",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Sisačko-moslavačka županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište \"Brod\"",
+      "Link": "//www.uciliste-brod.hr",
+      "Adresa": "Ulica Augusta Cesarca 13",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Auto moto centar Nova Gradiška",
+      "Link": "http://www.pou-amc.hr/",
+      "Adresa": "Kožarska 2",
+      "Grad": "Nova Gradiška",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Pučko otvoreno učilište Libar",
+      "Link": "http://www.pou-libar.hr/",
+      "Adresa": "Nikole Zrinskog ulica 28",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Ustanova za obrazovanje odraslih \"Mato\"",
+      "Link": "http://mato.hr/",
+      "Adresa": "Braće Radića 47",
+      "Grad": "Staro Petrovo Selo",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Brodsko-posavska županija"
+    },
+    {
+      "Ime": "Zajednica tehničke kulture Slavonski Brod",
+      "Link": "",
+      "Adresa": "Ulica sv. Florijana 7",
+      "Grad": "Slavonski Brod",
+      "Kategorija": "Pridružena",
+      "Zupanija": "Brodsko-posavska županija"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "vrijeme_Prikupljanja": "2023-10-31T00:00:00+01:00",
+  "ukupan_Broj": 3,
+  "odabrana_Kategorija": "Privremena",
+  "Lista_Clanica": [
+    {
+      "Ime": "Fond za obnovu Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije",
+      "Link": "",
+      "Adresa": "Ulica Ivana Dežmana 10",
+      "Grad": "Zagreb",
+      "Kategorija": "Privremena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Ured Predsjednika RH",
+      "Link": "http://www.predsjednica.hr",
+      "Adresa": "Pantovčak 241",
+      "Grad": "Zagreb",
+      "Kategorija": "Privremena",
+      "Zupanija": "Grad Zagreb"
+    },
+    {
+      "Ime": "Vlada Republike Hrvatske - NSK",
+      "Link": "",
+      "Adresa": "Ulica Hrvatske bratske zajednice 4",
+      "Grad": "Zagreb",
+      "Kategorija": "Privremena",
+      "Zupanija": "Grad Zagreb"
+    }
+  ]
+}

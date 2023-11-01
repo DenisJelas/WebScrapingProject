@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebScraping": {
+      "commandName": "Project",
+      "commandLineArgs": "-c 3"
+    }
+  }
+}
